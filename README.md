@@ -3,7 +3,7 @@ Storie
 
 Una collezione di storie per ioleggo.
 
-#Utilizzo
+##Utilizzo
 
 Tutte le storie nella cartella storie sono visualizzate nel menu di ioleggo.
 
