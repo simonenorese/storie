@@ -1,7 +1,7 @@
 Storie
 ======
 
-La collezione di storie visualizzate da ioleggo.heroku.com.
+La collezione di storie visualizzate da http://ioleggo.heroku.com.
 
 Utilizzo
 --------
