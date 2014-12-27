@@ -13,7 +13,7 @@ Le cartelle (solo un livello) sono le voci del menu.
 
 Le cartelle vuote sono eliminate automaticamente.
 
-Una volta modificate le storie, ricordarsi di cancellare la "cache" con http://ioleggo.heroku.com/clear.
+Una volta modificate le storie, ricordarsi di cancellare la "cache" con http://ioleggo.heroku.com/cache/clear.
 
 Contatto
 --------
